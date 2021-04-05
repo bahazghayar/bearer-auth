@@ -6,7 +6,7 @@
 
 #### MongoDB URI
 
-MONGODB_URI=mongodb+srv://bahazghayar:0000@cluster0.gylwg.mongodb.net/bearer-auth?retryWrites=true&w=majority <br>
+MONGODB_URI=mongodb+srv://bahazghayar:0000@cluster0.vfuh2.mongodb.net/auth?retryWrites=true&w=majority <br>
 
 [GitHub action link](https://github.com/bahazghayar/bearer-auth/actions) <br>
 
